@@ -1,4 +1,4 @@
-# TrackProject_MinhyeokKim
+# SNS API - post,follow function
 
 ## Start up
 
