@@ -123,7 +123,6 @@ python manage.py create_dummy_data
 ### 로드밸런서를 통해 배포
 
 - [x] 인스턴스에 직접 접근하는 대신 로드밸런서를 통해 API를 호출할 수 있도록 배포
-  > http://sns-lb-staging-19447035-3f19227be0e5.kr.lb.naverncp.com/sns/post/
 
 ### CICD Pipeline 작성
 
